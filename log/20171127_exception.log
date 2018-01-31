@@ -1,0 +1,8 @@
+*ERROR* 	2017/11/27 - 21:15:18: syntax error, unexpected 'jljljl' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) at line 4 in file override/classes/Product.php
+*ERROR* 	2017/11/27 - 21:16:58: syntax error, unexpected '<', expecting function (T_FUNCTION) or const (T_CONST) at line 4 in file override/classes/Product.php
+*ERROR* 	2017/11/27 - 21:17:29: Class 'Product' not found at line 829 in file classes/controller/AdminController.php
+*ERROR* 	2017/11/27 - 21:17:30: Class 'Product' not found at line 829 in file classes/controller/AdminController.php
+*ERROR* 	2017/11/27 - 21:39:46: syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) at line 549 in file override/controllers/AdminImportController.php
+*ERROR* 	2017/11/27 - 21:39:48: syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) at line 549 in file override/controllers/AdminImportController.php
+*ERROR* 	2017/11/27 - 23:25:18: Invalid product vars at line 159 in file classes/Link.php
+*ERROR* 	2017/11/27 - 23:25:27: Invalid product vars at line 159 in file classes/Link.php

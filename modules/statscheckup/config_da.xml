@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>statscheckup</name>
+	<displayName><![CDATA[Katalogvurdering]]></displayName>
+	<version><![CDATA[2.0.0]]></version>
+	<description><![CDATA[Tilføjer en hurtig evaluering af dit katalogs kvalitet til statistikker.]]></description>
+	<author><![CDATA[thirty bees]]></author>
+	<tab><![CDATA[analytics_stats]]></tab>
+	<is_configurable>0</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>thirty bees</title>
+	<atom:link href="https://thirtybees.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://thirtybees.com</link>
+	<description>an open source ecommerce project</description>
+	<lastBuildDate>Wed, 20 Dec 2017 16:00:30 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.4</generator>
+	<item>
+		<title>Two new community modules</title>
+		<link>https://thirtybees.com/blog/two-new-community-modules/</link>
+		<comments>https://thirtybees.com/blog/two-new-community-modules/#respond</comments>
+		<pubDate>Mon, 18 Dec 2017 07:11:30 +0000</pubDate>
+		<dc:creator><![CDATA[Lesley Paone]]></dc:creator>
+				<category><![CDATA[blog]]></category>
+
+		<guid isPermaLink="false">https://thirtybees.com/?p=2455</guid>
+		<description><![CDATA[Today we are happy to announce the addition of two new modules to our community repository and store. Over the years I have come to realize how much speed means to e-commerce shops. It can increase conversion and also affect search engine placement. These two modules that have been added to the community repository are &#91;...&#93;]]></description>
+				<content:encoded><![CDATA[<p>Today we are happy to announce the addition of two new modules to our community repository and store. Over the years I have come to realize how much speed means to e-commerce shops. It can increase conversion and also affect search engine placement. These two modules that have been added to the community repository are a bit of outlier modules. The do not increase your site speed for the average user. In fact, they do not change it at all. What they do however is increase the perceived Page Speed to Google.</p>
+<p>The techniques that are used in these modules is somewhat hotly debated, that is why they are not included with thirty bees and are left in the community repository. See these modules hide their scripts when Google accesses your site. Some people have called this technique cloaking before, but personally my interpretation of cloaking is when the content changes. This is more the case of presenting the web in a smarter way in my mind. Presenting the content that Google needs and will index and removing some unnecessary scripts that are disregarded anyways. The two modules that have been added to the community repository are:</p>
+<p><strong>Facebook Optimized Module</strong> &#8211; This module is based off the default thirty bees Facebook block. This module is generally used on the home page of your site or in one of the columns of your site. The module shows your site&#8217;s Facebook page and number of followers / likes. In the optimized module the whole Facebook output is hidden whenever Google accesses your site. The means the scripts with the short cache life no longer affect your site&#8217;s Page Speed score. If you currently use our default Facebook block module, this module should raise your Page Speed score by a couple of points.</p>
+<p><strong>Google Analytics Optimized</strong> &#8211; The Google Analytics Optimized module is based off the thirty bees Google Analytics module. It has all of the features as our native module, with the exception of being able to hide your Google Analytics scripts from Google. Because Google Analytics loads several scripts, this module should raise your site&#8217;s Page Speed score by about 5 points if you are using it. One thing to note, using this module Google Tag Assistant will no longer work since the tags will be hidden from Google. So if you use the assistant a frequently this is something to keep in mind.</p>
+<p>To use both of these modules you need to make sure that your current versions of the Facebook Block or Google Analytics modules are uninstalled first, then you need to download and install these modules. These modules cannot work with the other modules installed. Remember, these modules are a use at your own risk modules.</p>
+<p>&nbsp;</p>
+<div class="fusion-button-wrapper fusion-aligncenter"><style type="text/css" scoped="scoped">.fusion-button.button-1 .fusion-button-text, .fusion-button.button-1 i {color:#fad629;}.fusion-button.button-1 {border-width:0px;border-color:#fad629;}.fusion-button.button-1 .fusion-button-icon-divider{border-color:#fad629;}.fusion-button.button-1:hover .fusion-button-text, .fusion-button.button-1:hover i,.fusion-button.button-1:focus .fusion-button-text, .fusion-button.button-1:focus i,.fusion-button.button-1:active .fusion-button-text, .fusion-button.button-1:active{color:#ffffff;}.fusion-button.button-1:hover, .fusion-button.button-1:focus, .fusion-button.button-1:active{border-width:0px;border-color:#ffffff;}.fusion-button.button-1:hover .fusion-button-icon-divider, .fusion-button.button-1:hover .fusion-button-icon-divider, .fusion-button.button-1:active .fusion-button-icon-divider{border-color:#ffffff;}.fusion-button.button-1{width:auto;}</style><a class="fusion-button button-flat button-round button-large button-default button-1" target="_blank" rel="noopener noreferrer" title="View Google Analytics Optimized" href="https://store.thirtybees.com/shop-modules/statistics/google-analytics-optimized"><span class="fusion-button-text">View Google Analytics Optimized</span></a></div>
+<p>&nbsp;</p>
+<div class="fusion-button-wrapper fusion-aligncenter"><style type="text/css" scoped="scoped">.fusion-button.button-2 .fusion-button-text, .fusion-button.button-2 i {color:#fad629;}.fusion-button.button-2 {border-width:0px;border-color:#fad629;}.fusion-button.button-2 .fusion-button-icon-divider{border-color:#fad629;}.fusion-button.button-2:hover .fusion-button-text, .fusion-button.button-2:hover i,.fusion-button.button-2:focus .fusion-button-text, .fusion-button.button-2:focus i,.fusion-button.button-2:active .fusion-button-text, .fusion-button.button-2:active{color:#ffffff;}.fusion-button.button-2:hover, .fusion-button.button-2:focus, .fusion-button.button-2:active{border-width:0px;border-color:#ffffff;}.fusion-button.button-2:hover .fusion-button-icon-divider, .fusion-button.button-2:hover .fusion-button-icon-divider, .fusion-button.button-2:active .fusion-button-icon-divider{border-color:#ffffff;}.fusion-button.button-2{width:auto;}</style><a class="fusion-button button-flat button-round button-large button-default button-2" target="_blank" rel="noopener noreferrer" title="View Facebook Optimized" href="https://store.thirtybees.com/shop-modules/front-office/block-facebook-google-optimized"><span class="fusion-button-text">View Facebook Optimized</span></a></div>
+<!-- PICTURE TAGS BY SHORTPIXEL -->]]></content:encoded>
+			<wfw:commentRss>https://thirtybees.com/blog/two-new-community-modules/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>thirty bees community repository</title>
+		<link>https://thirtybees.com/blog/thirty-bees-community-repository/</link>
+		<comments>https://thirtybees.com/blog/thirty-bees-community-repository/#respond</comments>
+		<pubDate>Wed, 13 Dec 2017 07:33:02 +0000</pubDate>
+		<dc:creator><![CDATA[Lesley Paone]]></dc:creator>
+				<category><![CDATA[blog]]></category>
+		<category><![CDATA[developer]]></category>
+
+		<guid isPermaLink="false">https://thirtybees.com/?p=2447</guid>
+		<description><![CDATA[We are happy to announce today that we are starting a new initiative to help bring more free and open source modules to the thirty bees platform. We have created a community GitHub repo that we will let our community decide the direction of. The repository will be a great place for our community to &#91;...&#93;]]></description>
+				<content:encoded><![CDATA[<p>We are happy to announce today that we are starting a new initiative to help bring more free and open source modules to the thirty bees platform. We have created a community GitHub repo that we will let our community decide the direction of. The repository will be a great place for our community to get together and collaborate on modules or to find new modules to fork into the repository. We will even accept module donations from developers that do not want to deal with upkeep on modules.</p>
+<h2>But&#8230;</h2>
+<p>But we need community members to run the community repository. We would ideally like for the repository to be ran entirely by the community, where they can pick the direction of modules and development. Over time we will also be adding some modules to the repository as well. From time to time we develop modules that might have limited use cases, so this would be a perfect spot for them.</p>
+<p>If you are familiar with using GitHub and would like to help out, just send one of us a message and we can add your rights to the organization. Then you can help start shaping the future of thirty bees. We are also setting the community repository up as a seller in our store, so that the community developed modules can be ported to the thirty bees marketplace as well.</p>
+<p>To get the repository started we have added a couple of modules that might be of interest to our community. We have forked the modules from other repositories with appropriate licenses. The modules are:</p>
+<ul>
+<li><strong>Algolia address auto complete</strong></li>
+<li><strong>Ebay listing module</strong></li>
+<li><strong>Sendmachine</strong></li>
+</ul>
+<p>The modules will likely require a little bit of work and setting up to be listed on the store, but we have picked ones that have generally a high compatibility with maybe a few bugs.</p>
+<p>If you would like to be added as a moderator / contributor to our community repository please contact us and let us know. If you would like to donate a module, contact us as well, we would love to have as many community contributions as possible.</p>
+<div class="fusion-button-wrapper fusion-aligncenter"><style type="text/css" scoped="scoped">.fusion-button.button-3 .fusion-button-text, .fusion-button.button-3 i {color:#fad629;}.fusion-button.button-3 {border-width:0px;border-color:#fad629;}.fusion-button.button-3 .fusion-button-icon-divider{border-color:#fad629;}.fusion-button.button-3:hover .fusion-button-text, .fusion-button.button-3:hover i,.fusion-button.button-3:focus .fusion-button-text, .fusion-button.button-3:focus i,.fusion-button.button-3:active .fusion-button-text, .fusion-button.button-3:active{color:#ffffff;}.fusion-button.button-3:hover, .fusion-button.button-3:focus, .fusion-button.button-3:active{border-width:0px;border-color:#ffffff;}.fusion-button.button-3:hover .fusion-button-icon-divider, .fusion-button.button-3:hover .fusion-button-icon-divider, .fusion-button.button-3:active .fusion-button-icon-divider{border-color:#ffffff;}.fusion-button.button-3{width:auto;}</style><a class="fusion-button button-flat button-round button-large button-default button-3" target="_blank" rel="noopener noreferrer" title="View the community repository" href="https://github.com/thirtybees-community"><span class="fusion-button-text">View the community repository</span></a></div>
+<p>&nbsp;</p>
+<p>We have also created a new top level category on our forum for discussions around the modules and how to use GitHub as well. <a href="https://forum.thirtybees.com/category/38/community-modules-and-github"><strong>You can view the new forum here.</strong></a></p>
+<!-- PICTURE TAGS BY SHORTPIXEL -->]]></content:encoded>
+			<wfw:commentRss>https://thirtybees.com/blog/thirty-bees-community-repository/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Adding free modules to our store</title>
+		<link>https://thirtybees.com/developer-blog/adding-free-modules-to-our-store/</link>
+		<comments>https://thirtybees.com/developer-blog/adding-free-modules-to-our-store/#respond</comments>
+		<pubDate>Wed, 13 Dec 2017 05:44:55 +0000</pubDate>
+		<dc:creator><![CDATA[Lesley Paone]]></dc:creator>
+				<category><![CDATA[Developer Blog]]></category>
+
+		<guid isPermaLink="false">https://thirtybees.com/?p=2442</guid>
+		<description><![CDATA[Since the thirty bees store has launched anyone can sign up and add their free modules to the store. We expect over the next few months our store will become an amazing place for our community to find the modules that they need to run their shops. If you are a developer that likes open &#91;...&#93;]]></description>
+				<content:encoded><![CDATA[<p>Since the thirty bees store has launched anyone can sign up and add their free modules to the store. We expect over the next few months our store will become an amazing place for our community to find the modules that they need to run their shops. If you are a developer that likes open source, this article is for you. It goes step by step with how to list your free modules in our store.</p>
+<h2>The Requirements</h2>
+<p>The requirements for listing free modules in our store is simple, they need to have a GitHub repo and correct formatting of the module. This opens up our store to anyone that wants to add a free module, whether you are a developer or a paid service looking to expand your reach. Now you can list your modules quickly and easily on our store and manage them directly from GitHub.</p>
+<h2>What do we mean mange from GitHub?</h2>
+<p>We are a very small and focused team, we understand that time is limited and doing the same task repetitively kills time management. There are two reasons we have set our store up to work with GitHub, the first is to promote open source, the second is to add in automation. In the past with other marketplaces to make a change to a modules marketing information you have to log into the marketplace, then make the changes and save. You might keep a local copy for your records so you can tweak them as needed in the future as well. With our marketplace we have changed that. All of the marketing material and information is directly in the GitHub repository. Once you make a change in the repository, the change is automatically updated in the thirty bees marketplace. You can change the supported PHP version, a description, fix a typo, add a new release, change the cover image for the module. All of those changes are automatically sent to the store in seconds using webhooks. This keeps you as a developer from having to worry about making the changes two places.</p>
+<p>This also allows for one other important addition as well. If a community member finds a bug in your free module, they can easily contribute a fix without bothering you. This helps to create a more stable and transparent ecosphere of module development and this is something we are very much concerned about at thirty bees.</p>
+<h2>I don&#8217;t use GitHub</h2>
+<p>If you don&#8217;t use GitHub, it might be time to consider it. It is a very power solution for automating workflows and sharing your code with your whole team. That is not even mentioning the version control capabilities, which is the main purpose for using GitHub. If you haven&#8217;t used GitHub before they have some awesome tutorials. <a href="https://guides.github.com/activities/hello-world/"><strong>You can find them here.</strong></a> If you are not very familiar with using the command line for your work process, never fear, most of our developers use a product called <a href="https://www.gitkraken.com/"><strong>GitKraken</strong></a>. It allows us to manage our GitHub repositories easily and quickly. It will also speed up your workflow as well.</p>
+<h2>How to list your modules</h2>
+<p>We have made a guide in our documentation to give you all the information that you need to list your modules on the store. <a href="https://docs.thirtybees.com/store/free-modules/"><strong>You can read the guide here.</strong></a>  If you have any questions about free modules, how to list them or how to use GitHub, we have a dedicated forum on our community forum just for that. <a href="https://github.com/thirtybees-community"><strong>You can view the community repository here</strong></a>. Let us know if you see any modules that should be forked, or if you want to donate any modules to the community repository.</p>
+<!-- PICTURE TAGS BY SHORTPIXEL -->]]></content:encoded>
+			<wfw:commentRss>https://thirtybees.com/developer-blog/adding-free-modules-to-our-store/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>thirty bees store launches</title>
+		<link>https://thirtybees.com/uncategorized/thirty-bees-store-launches/</link>
+		<comments>https://thirtybees.com/uncategorized/thirty-bees-store-launches/#comments</comments>
+		<pubDate>Mon, 11 Dec 2017 08:12:48 +0000</pubDate>
+		<dc:creator><![CDATA[Lesley Paone]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">https://thirtybees.com/?p=2439</guid>
+		<description><![CDATA[Today we are excited to announce that we have launched our official store. It has been a long time in the making and it is finally ready for use by the public. The store is in beta mode, so there might be some bugs, but it should be operational enough to be utilized by our &#91;...&#93;]]></description>
+				<content:encoded><![CDATA[<p>Today we are excited to announce that we have launched our official store. It has been a long time in the making and it is finally ready for use by the public. The store is in beta mode, so there might be some bugs, but it should be operational enough to be utilized by our community.</p>
+<p>The thirty bees store is a culmination of the whole idea behind thirty bees. We want to enable merchants easy access to quality, free open source modules. This is where a lot of the testing and development has come in. We have developed our store so anyone can add a free module quickly and easily, unlike other marketplaces. We want to fill the gap where merchants no longer result to Google, or have to browse old forum posts for modules, we want to give you one marketplace to house all kinds of modules that are compatible with thirty bees.</p>
+<p>We still have several modules yet to list, they should be up by the end of the day today, but from the official thirty bees repository we have about 75 modules we actively support. That is even after we have deprecated 23 modules with 1.0.4 rc1. We have a lot of work ahead of us in the next month on the store, but it will all get done and everything will be listed with proper descriptions.</p>
+<p>Today we will also post information on how other developers can list their free modules in the the thirty bees marketplace as well. We have made some changes to the format over the last several weeks, so we will have the documentation updated today with listing instructions.</p>
+<h2>Paid Module</h2>
+<p>Later in the week we will start added paid modules from third party sellers. If you are a developer looking to sell your modules, use our contact form and let us know. We listing a few modules from select developers in the beginning until we have all the bugs worked out, then we will open the listing to the general public. If you would like to be one of the developers in the beta, let us know and we can work something out.</p>
+<p>We have come a long way in the last year, our plans are just now starting to fit into place. The store is the first in several big changes we have planned for the coming months.  We thank all of our community for sticking with us, we want to give you the best possible e-commerce experience.</p>
+<p>If you run into any issues in our shop, we have created a forum especially for the store. <a href="https://forum.thirtybees.com/category/35/thirty-bees-store"><strong>Post any issues that you have with our store here. </strong></a></p>
+<p>&nbsp;</p>
+<div class="fusion-button-wrapper fusion-aligncenter"><style type="text/css" scoped="scoped">.fusion-button.button-4 .fusion-button-text, .fusion-button.button-4 i {color:#fad629;}.fusion-button.button-4 {border-width:0px;border-color:#fad629;}.fusion-button.button-4 .fusion-button-icon-divider{border-color:#fad629;}.fusion-button.button-4:hover .fusion-button-text, .fusion-button.button-4:hover i,.fusion-button.button-4:focus .fusion-button-text, .fusion-button.button-4:focus i,.fusion-button.button-4:active .fusion-button-text, .fusion-button.button-4:active{color:#ffffff;}.fusion-button.button-4:hover, .fusion-button.button-4:focus, .fusion-button.button-4:active{border-width:0px;border-color:#ffffff;}.fusion-button.button-4:hover .fusion-button-icon-divider, .fusion-button.button-4:hover .fusion-button-icon-divider, .fusion-button.button-4:active .fusion-button-icon-divider{border-color:#ffffff;}.fusion-button.button-4{width:auto;}</style><a class="fusion-button button-flat button-round button-large button-default button-4" target="_blank" rel="noopener noreferrer" title="Visit our Store" href="https://store.thirtybees.com"><span class="fusion-button-text">Visit our Store</span></a></div>
+<!-- PICTURE TAGS BY SHORTPIXEL -->]]></content:encoded>
+			<wfw:commentRss>https://thirtybees.com/uncategorized/thirty-bees-store-launches/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>thirty bees store update</title>
+		<link>https://thirtybees.com/blog/thirty-bees-store-update/</link>
+		<comments>https://thirtybees.com/blog/thirty-bees-store-update/#comments</comments>
+		<pubDate>Wed, 06 Dec 2017 08:15:54 +0000</pubDate>
+		<dc:creator><![CDATA[Lesley Paone]]></dc:creator>
+				<category><![CDATA[blog]]></category>
+
+		<guid isPermaLink="false">https://thirtybees.com/?p=2432</guid>
+		<description><![CDATA[Behind the scenes we have been working on our store getting it buttoned up and ready to launch. We are hoping to have it launched Monday the 11th. Its taken longer than we wanted to, but that is often the case when you are designing a system that is made to be expandable and comprehensive &#91;...&#93;]]></description>
+				<content:encoded><![CDATA[<p>Behind the scenes we have been working on our store getting it buttoned up and ready to launch. We are hoping to have it launched Monday the 11th. Its taken longer than we wanted to, but that is often the case when you are designing a system that is made to be expandable and comprehensive from the start.  But it has been well worth the effort.</p>
+<p>We are planning on launching the store in two phases. The first phase will consist of free open source modules. This is actually where the majority of the work has taken place. We have designed a system where we can mange the free modules quickly and easily, hopefully this will help spur the growth of free modules in our community. All a developer needs to add a free module is a properly set up Github repo and to add the repo url to the store. The store will automatically extract everything out of the repo for the module page and list it on our site. Once a module is updated in a repository, using Github webhooks it will notify our store, which will in turn update the module to the latest release. Handling the store this way allows developers to develop, without having to worry about constantly updating the store for their module changes.</p>
+<p>At the same time this ushers in a level of transparency and community involvement. If a community member finds a bug in a module, or wants to add a new feature, it is easily added through Github. We are relying on this ease to spur growth and help foster a great module ecosystem. It will also bring dozens of high quality modules to our community as well, making merchants shops better and more dynamic.</p>
+<p>Right now we are still implementing some changes in the format we will be using for the data in the free modules. We have made several changes over the last few days and might make a few more in the coming days. When we get everything finalized, we will release the specifications in our documentation so developers will know exactly how to design their repositories to be added to our store.</p>
+<p>We are also considering splitting off our repository into another community repository for members that want to contribute modules, but do not want to maintain them. This is something we would like the communities input on. Would you like to see a repository of modules ported to our store that we do not actively maintain, but the community does?</p>
+<!-- PICTURE TAGS BY SHORTPIXEL -->]]></content:encoded>
+			<wfw:commentRss>https://thirtybees.com/blog/thirty-bees-store-update/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Module Compatibility: Presto-Changeo</title>
+		<link>https://thirtybees.com/blog/module-compatibility-presto-changeo/</link>
+		<comments>https://thirtybees.com/blog/module-compatibility-presto-changeo/#comments</comments>
+		<pubDate>Fri, 01 Dec 2017 08:35:43 +0000</pubDate>
+		<dc:creator><![CDATA[Lesley Paone]]></dc:creator>
+				<category><![CDATA[blog]]></category>
+		<category><![CDATA[compatibility]]></category>
+
+		<guid isPermaLink="false">https://thirtybees.com/?p=2426</guid>
+		<description><![CDATA[I am proud to announce today that we have yet another company willing to support thirty bees with their modules. Presto-Changeo has started testing and modifying their modules to support the thirty bees platform. With their support they bring to the table not only some great modules, but also a lot of experience in knowing &#91;...&#93;]]></description>
+				<content:encoded><![CDATA[<p>I am proud to announce today that we have yet another company willing to support thirty bees with their modules. Presto-Changeo has started testing and modifying their modules to support the thirty bees platform. With their support they bring to the table not only some great modules, but also a lot of experience in knowing what customers need and what our software is lacking.</p>
+<p>I met Tomer from Presto-Changeo about a year after I got into e-commerce. He has always been around to lend a hand or help me with any issues that I have had. He is one of the few people in this industry that I talk to daily and keep in touch with. I have also used his modules for years, they are some of the most solid modules in the industry, with great quality control and functionality that is not found anywhere else.</p>
+<h2>The modules</h2>
+<p>Presto-Changeo has an extensive selection of modules, so they have not had a chance to convert and or test all of their modules with thirty bees yet, so their list will be growing soon. Right now they have 7 modules converted with more on the way. The current modules are:</p>
+<ul>
+<li><strong>Localized Shipping</strong></li>
+<li><strong>Attribute Wizard</strong></li>
+<li><strong>Attribute Grid</strong></li>
+<li><strong>Attribute Wizard Pro</strong></li>
+<li><strong>Product List Attributes</strong></li>
+<li><strong>Paypal Pro</strong></li>
+<li><strong>Paypal Advanced</strong></li>
+</ul>
+<p>A great selection of modules to get things started. Soon they will have their US shipping modules compatible with thirty bees as well, that is what I hear they are working on next. This will fill a huge gap for our US merchants.</p>
+<h2>Attribute Wizard Pro</h2>
+<p>One of Presto-Changeo&#8217;s most popular modules is Attribute Wizard Pro. It allows you to have unlimited attributes per product, opening a lot of doors to products you create and how you can manage them. It has a whole host of features such as layered images and advanced handling of attributes. If you have products that require a virtually unlimited number of features, this module is for you.</p>
+<h2>Localized Shipping</h2>
+<p>This is one of my favorite modules by Presto-Changeo. It allows for you to fine tune table rate shipping by zip code, state, or country. I have always been a fan of table rate shipping because of the speed in which you can usher a user through the checkout. If you plan on using flat or table rates in your site, this module is a definite must have.</p>
+<p>You can visit Presto-Changeo&#8217;s site here: <a href="http://www.presto-changeo.com/en/29-thirty-bees-modules"><strong>Presto-Changeo</strong></a></p>
+<h2 data-fontsize="18" data-lineheight="27">About our compatibility program</h2>
+<p>Our compatibility program is very simple and simple to join. If you create modules that are compatible with thirty bees all you have to do is display the compatibility seal on your module page for customers to see. At the same time you have to support customers who have issues with your module and thirty bees. Its that simple. If you are displaying the seal, let us know, we would like to help the companies that support us out as much as possible. You can <strong><a href="https://thirtybees.com/compatibility/module-compatibility-program/">read more about our module compatibility program here. </a></strong></p>
+<!-- PICTURE TAGS BY SHORTPIXEL -->]]></content:encoded>
+			<wfw:commentRss>https://thirtybees.com/blog/module-compatibility-presto-changeo/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>thirty bees partners with Linuxweb</title>
+		<link>https://thirtybees.com/blog/thirty-bees-partners-with-linuxweb/</link>
+		<comments>https://thirtybees.com/blog/thirty-bees-partners-with-linuxweb/#comments</comments>
+		<pubDate>Thu, 30 Nov 2017 06:05:28 +0000</pubDate>
+		<dc:creator><![CDATA[Lesley Paone]]></dc:creator>
+				<category><![CDATA[blog]]></category>
+		<category><![CDATA[partners]]></category>
+
+		<guid isPermaLink="false">https://thirtybees.com/?p=2414</guid>
+		<description><![CDATA[We are proud to announce that we have partnered with Linuxweb for hosting in Africa. They bring to the table years of experience in managing linux systems and hosting web sites all around the African continent. The owner of Linuxweb Selwyn Orren is also an active member in the thirty bees community, which makes this &#91;...&#93;]]></description>
+				<content:encoded><![CDATA[<p>We are proud to announce that we have partnered with Linuxweb for hosting in Africa. They bring to the table years of experience in managing linux systems and hosting web sites all around the African continent. The owner of Linuxweb Selwyn Orren is also an active member in the thirty bees community, which makes this partnership even better.</p>
+<p>There were a few big deciding factors in us partnering with Linuxweb, one of the primary ones is that the owner is active in our community. Selwyn has made several commits to the blog module to fix issues and add more features to it. To us this means two things, the first he understands how thirty bees works, the second is his company is prepared to support thirty bees. Because of some of the bugs that he has fixed most users using thirty bees will actually be running code he has written.</p>
+<p>Another thing that means a lot to us here at thirty bees is when our users and partners stand behind our software. Selwyn opened up a shop this year that is based off of thirty bees. If by chance you are looking for men&#8217;s grooming products you might check it out at <a href="https://www.orren-life.com/"><strong>Orren Life</strong></a>.</p>
+<p>On to their hosting. Linuxweb offers 3 different tiers of hosting like most hosts. They even have a specific plan for thirty bees sites. The hosting levels they offer are:</p>
+<ul>
+<li><strong>Shared</strong></li>
+<li><strong>Reseller</strong></li>
+<li><strong>VPS</strong></li>
+</ul>
+<p>All of their plans are very affordable as well, giving our users another benefit to using Linuxweb. If you need hosting and are based in Africa, Linuxweb should be your go to hosting company, they are ours.</p>
+<div class="fusion-button-wrapper fusion-aligncenter"><style type="text/css" scoped="scoped">.fusion-button.button-5 .fusion-button-text, .fusion-button.button-5 i {color:#fad629;}.fusion-button.button-5 {border-width:0px;border-color:#fad629;}.fusion-button.button-5 .fusion-button-icon-divider{border-color:#fad629;}.fusion-button.button-5:hover .fusion-button-text, .fusion-button.button-5:hover i,.fusion-button.button-5:focus .fusion-button-text, .fusion-button.button-5:focus i,.fusion-button.button-5:active .fusion-button-text, .fusion-button.button-5:active{color:#ffffff;}.fusion-button.button-5:hover, .fusion-button.button-5:focus, .fusion-button.button-5:active{border-width:0px;border-color:#ffffff;}.fusion-button.button-5:hover .fusion-button-icon-divider, .fusion-button.button-5:hover .fusion-button-icon-divider, .fusion-button.button-5:active .fusion-button-icon-divider{border-color:#ffffff;}.fusion-button.button-5{width:auto;}</style><a class="fusion-button button-flat button-round button-large button-default button-5" target="_blank" rel="noopener noreferrer" title="Get Linuxweb hosting" href="https://linuxweb.co.za/linux-hosting/thirtybees-hosting"><span class="fusion-button-text">Get Linuxweb hosting</span></a></div>
+<!-- PICTURE TAGS BY SHORTPIXEL -->]]></content:encoded>
+			<wfw:commentRss>https://thirtybees.com/blog/thirty-bees-partners-with-linuxweb/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Module Compatibility: PresTeamShop</title>
+		<link>https://thirtybees.com/blog/module-compatibility-presteamshop/</link>
+		<comments>https://thirtybees.com/blog/module-compatibility-presteamshop/#respond</comments>
+		<pubDate>Wed, 29 Nov 2017 06:23:42 +0000</pubDate>
+		<dc:creator><![CDATA[Lesley Paone]]></dc:creator>
+				<category><![CDATA[blog]]></category>
+		<category><![CDATA[compatibility]]></category>
+		<category><![CDATA[module compatibility]]></category>
+
+		<guid isPermaLink="false">https://thirtybees.com/?p=2399</guid>
+		<description><![CDATA[Today we are proud to announce that we have yet another company that has made their modules compatible with thirty bees and supports our platform. The company is PresTeamShop out of Colombia. They have been active in the module development community for several years, I have even recommended several of their modules in articles on &#91;...&#93;]]></description>
+				<content:encoded><![CDATA[<p>Today we are proud to announce that we have yet another company that has made their modules compatible with thirty bees and supports our platform. The company is PresTeamShop out of Colombia. They have been active in the module development community for several years, I have even recommended several of their modules in articles on my site in the past, because they are well made. Their modules will add a great new element to the ecosphere of developers that support thirty bees.</p>
+<p>PresTeamShop has a large selection of modules that are compatible with thirty bees. In all they have 14 modules that work with thirty bees, adding lots of new possibilities and features to your shop. Some of them are based around optimizations, others are based around creating a faster checkout. Below is their list of modules:</p>
+<ul>
+<li><strong>One Page Checkout</strong></li>
+<li><strong>Filter Products Pro</strong></li>
+<li><strong>Ticket Service Pro</strong></li>
+<li><strong>Estimate Shipping Cost</strong></li>
+<li><strong>Last Minute OPC</strong></li>
+<li><strong>iFeedback</strong></li>
+<li><strong>Product Extra Tabs</strong></li>
+<li><strong>Smart SEO Url</strong></li>
+<li><strong>Zoom Product Pro +360</strong></li>
+<li><strong>reSmushit Image Optimzer</strong></li>
+<li><strong>Kraken Image Optimizer</strong></li>
+<li><strong>Cetelem Spain</strong></li>
+<li><strong>Carrier Pickup Store</strong></li>
+</ul>
+<p>Not only does PresTeamShop offer modules, but they also offer services as well, such as upgrade services and image optimization services. So if you are looking for help with your thirty bees shop and are in South America, they might be the company to contact.</p>
+<h2>One Page Checkout</h2>
+<p>I wanted to give a special section to this module. This is one of their most popular modules. I have recommended this module for several years now, it is one of the few modules that I think actually increases the conversion rate of users on your site. It includes some nice features like using Google Maps to autocomplete addresses, and quick guest checkouts. The compactness of the checkout is one of its greatest features though, in my opinion. It presents everything that the user needs front and center in a clean compact manner that they can easily see the checkout, the information they need to add, the prices, and the shipping; without having to scroll the page to get at the different points. We did testing with abandoned carts that made it to the checkout page, this module increased the amount of carts that completed their purchases.</p>
+<p>You can visit PresTeamShops site here: <a href="https://www.presteamshop.com/"><strong>PresTeamShop</strong></a></p>
+<h2 data-fontsize="18" data-lineheight="27">About our compatibility program</h2>
+<p>Our compatibility program is very simple and simple to join. If you create modules that are compatible with thirty bees all you have to do is display the compatibility seal on your module page for customers to see. At the same time you have to support customers who have issues with your module and thirty bees. Its that simple. If you are displaying the seal, let us know, we would like to help the companies that support us out as much as possible. You can <strong><a href="https://thirtybees.com/compatibility/module-compatibility-program/">read more about our module compatibility program here. </a></strong></p>
+<!-- PICTURE TAGS BY SHORTPIXEL -->]]></content:encoded>
+			<wfw:commentRss>https://thirtybees.com/blog/module-compatibility-presteamshop/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Module Compatibility: Logical IT</title>
+		<link>https://thirtybees.com/uncategorized/module-compatibility-logical-it/</link>
+		<comments>https://thirtybees.com/uncategorized/module-compatibility-logical-it/#respond</comments>
+		<pubDate>Tue, 28 Nov 2017 06:10:02 +0000</pubDate>
+		<dc:creator><![CDATA[Lesley Paone]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">https://thirtybees.com/?p=2395</guid>
+		<description><![CDATA[Today we have another module shop and developer that is supporting thirty bees. Logical IT now has thirty bees compatible modules and provides services for customers looking for thirty bees development. If you are a shop owner in Austrailia and looking for a local developer, they might be the company you need. They provide custom &#91;...&#93;]]></description>
+				<content:encoded><![CDATA[<p>Today we have another module shop and developer that is supporting thirty bees. Logical IT now has thirty bees compatible modules and provides services for customers looking for thirty bees development. If you are a shop owner in Austrailia and looking for a local developer, they might be the company you need. They provide custom built throty bees stores as well as on going support for your thirty bees needs. The owner Chris Fotiou has over 20 years of experience as a developer, making him able to handle all your thirty bees needs.</p>
+<p>The modules</p>
+<p>Logical IT has a pretty extensive list of modules on their site that support thirty bees. They have 32 modules in all that support thirty bees. Some of the modules are:</p>
+<ul>
+<li><strong>Kraken image optimizer</strong></li>
+<li><strong>Hire Products module</strong></li>
+<li><strong>Payment by account invoice</strong></li>
+<li><strong>Newsletter popup with voucher</strong></li>
+<li><strong>Pin payments</strong></li>
+<li><strong>Youtube product videos</strong></li>
+<li><strong>Invoice text by customer group</strong></li>
+<li><strong>Sticky add to cart button</strong></li>
+<li><strong>Quick order form by reference code</strong></li>
+<li><strong>and many more..</strong></li>
+</ul>
+<p>Their list of modules is quite extensive, it is something that you need to see for yourself. The modules they offer span from just about all categories from invoicing, to payment modules, to image optimization modules. So, if you are looking for a module, they might have what you are looking for. Check them out and support developers that support thirty bees!</p>
+<p>You can visit Logical IT&#8217;s site here: <a href="https://www.logicalit.com/"><strong>Logical IT</strong></a></p>
+<h2 data-fontsize="18" data-lineheight="27">About our compatibility program</h2>
+<p>Our compatibility program is very simple and simple to join. If you create modules that are compatible with thirty bees all you have to do is display the compatibility seal on your module page for customers to see. At the same time you have to support customers who have issues with your module and thirty bees. Its that simple. If you are displaying the seal, let us know, we would like to help the companies that support us out as much as possible. You can <strong><a href="https://thirtybees.com/compatibility/module-compatibility-program/">read more about our module compatibility program here. </a></strong></p>
+<!-- PICTURE TAGS BY SHORTPIXEL -->]]></content:encoded>
+			<wfw:commentRss>https://thirtybees.com/uncategorized/module-compatibility-logical-it/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Statistics Modules</title>
+		<link>https://thirtybees.com/blog/statistics-modules/</link>
+		<comments>https://thirtybees.com/blog/statistics-modules/#respond</comments>
+		<pubDate>Mon, 27 Nov 2017 05:56:39 +0000</pubDate>
+		<dc:creator><![CDATA[Lesley Paone]]></dc:creator>
+				<category><![CDATA[blog]]></category>
+		<category><![CDATA[native modules]]></category>
+
+		<guid isPermaLink="false">https://thirtybees.com/?p=2384</guid>
+		<description><![CDATA[If you have spent any time in our Slack or Gitter then you know there is one thing that drives me crazy, the number of modules it takes to run a thirty bees shop. There are so many modules that are not needed as separate modules. This clutters the page in my opinion and helps &#91;...&#93;]]></description>
+				<content:encoded><![CDATA[<p>If you have spent any time in our Slack or Gitter then you know there is one thing that drives me crazy, the number of modules it takes to run a thirty bees shop. There are so many modules that are not needed as separate modules. This clutters the page in my opinion and helps to scare off new users. At the same time it makes things harder to find. Do you edit this address in the Block Contact module? The Block Contact Infos? Or is it on the Preferences Store Contacts page?</p>
+<p>To me, this is just insane. This crowds the module page and creates a huge mess for users. Did you know in a thirty bees installation there are 26 statistics modules installed by default? That is 26 modules you have to scroll past to find what you are looking for. Of those 26 modules only 3 of them need to be separate modules. We inherited a maddening array of module mess. Not only does this mess make your back office look cluttered, it is hard for us to upkeep 26 different repositories. They have to be put in the feed, they have to be maintained with bug fixes and builds. Not only do we have the problems I just mentioned, but they also slow down the installer as well. They can create timeouts drawing the sources from our API.</p>
+<h2>The better way</h2>
+<p>One of the community members that helps out a lot with thirty bees, Fabio from <a href="http://nemops.com/"><strong>Nemops</strong></a> helped us create a better way. He condensed 23 of the statistics modules down into one main statistics module. Starting in version 1.0.4 thirty bees will be shipping with one combined module to handle all of the statistics. This means a cleaner module list for you the merchant. The statistics will still function as the have in the past, the only change will be that there is one module holding all of the classes that make up the statistics. This change allows us to easily add new types of statistics over time easily, without introducing new modules to maintain. So in our GitHub repository you are likely to notice that there will be new modules added to the deprecated list. Don&#8217;t worry, it is just because we are trying to combine down as many as possible, so we have less code base to deal with and can deliver more modules, and keep the back office easy to navigate. We are experts in trying to keep things simple.</p>
+<p>Have a comment on this approach? Let us know below!</p>
+<!-- PICTURE TAGS BY SHORTPIXEL -->]]></content:encoded>
+			<wfw:commentRss>https://thirtybees.com/blog/statistics-modules/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Page Caching using disk: enhanced
+
+ Served from: thirtybees.com @ 2017-12-27 09:43:38 by W3 Total Cache -->

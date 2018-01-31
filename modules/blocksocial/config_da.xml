@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>blocksocial</name>
+	<displayName><![CDATA[Sociale Netværk Blok]]></displayName>
+	<version><![CDATA[2.2.0]]></version>
+	<description><![CDATA[Lader dig tilføje information om din shops konti på sociale netværk.]]></description>
+	<author><![CDATA[thirty bees]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
